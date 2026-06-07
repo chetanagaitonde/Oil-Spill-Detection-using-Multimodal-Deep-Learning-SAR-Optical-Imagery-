@@ -293,7 +293,7 @@ The framework is evaluated using:
 ## Authors
 
 * Chetana Gaitonde
-Dr. Vishwanath Karad's MIT World Peace University (MIT-WPU)
+* Dr. Vishwanath Karad's MIT World Peace University (MIT-WPU)
 
 ---
 
